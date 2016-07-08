@@ -1,0 +1,40 @@
+[ 2016-07-08T00:21:13+08:00 ] 61.148.243.87 /apple-touch-icon-120x120-precomposed.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+
+[ 2016-07-08T00:21:13+08:00 ] 61.148.243.87 /apple-touch-icon-120x120.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000701s ]
+
+[ 2016-07-08T00:21:14+08:00 ] 61.148.243.87 /apple-touch-icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+
+[ 2016-07-08T00:21:14+08:00 ] 61.148.243.87 /apple-touch-icon.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+
+[ 2016-07-08T00:21:14+08:00 ] 61.148.243.87 /apple-touch-icon-precomposed.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000131s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000866s ]
+
+[ 2016-07-08T09:25:37+08:00 ] 123.122.80.26 /public/img/about2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000741s ]
+
+[ 2016-07-08T09:25:37+08:00 ] 123.122.80.26 /public/img/about1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+
+[ 2016-07-08T14:00:11+08:00 ] 123.122.80.26 /Index/public/img/tel-ft.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000125s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000843s ]
+

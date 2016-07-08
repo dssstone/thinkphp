@@ -1,0 +1,65 @@
+[ 2016-07-06T13:02:06+08:00 ] 123.122.80.26 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000129s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000886s ]
+
+[ 2016-07-06T15:43:42+08:00 ] 123.122.80.26 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+
+[ 2016-07-06T15:44:48+08:00 ] 123.122.80.26 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000724s ]
+
+[ 2016-07-06T15:44:48+08:00 ] 123.122.80.26 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000179s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001023s ]
+
+[ 2016-07-06T15:57:24+08:00 ] 123.122.80.26 /images/index/tel-ft.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+
+[ 2016-07-06T15:57:27+08:00 ] 123.122.80.26 /images/index/tel-ft.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000129s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000873s ]
+
+[ 2016-07-06T15:58:58+08:00 ] 123.122.80.26 /images/index/tel-ft.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000148s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000834s ]
+
+[ 2016-07-06T16:03:31+08:00 ] 123.122.80.26 /images/index/tel-ft.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000127s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000859s ]
+
+[ 2016-07-06T16:07:20+08:00 ] 123.122.80.26 /.public/img/tel-ft.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+
+[ 2016-07-06T16:07:26+08:00 ] 123.122.80.26 /.public/img/tel-ft.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000826s ]
+
+[ 2016-07-06T16:07:38+08:00 ] 123.122.80.26 /.public/img/tel-ft.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000148s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000832s ]
+
+[ 2016-07-06T16:07:42+08:00 ] 123.122.80.26 /.public/img/tel-ft.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000151s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000863s ]
+
+[ 2016-07-06T22:42:38+08:00 ] 220.181.108.177 /images/index/banner-2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000128s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000862s ]
+

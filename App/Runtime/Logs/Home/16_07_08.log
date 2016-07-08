@@ -1,0 +1,1293 @@
+[ 2016-07-08T00:02:42+08:00 ] 61.148.243.87 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000128s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000884s ]
+
+[ 2016-07-08T00:21:12+08:00 ] 61.148.243.87 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+
+[ 2016-07-08T00:21:47+08:00 ] 61.148.243.87 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000130s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000890s ]
+
+[ 2016-07-08T00:21:54+08:00 ] 61.148.243.87 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
+[ 2016-07-08T01:05:03+08:00 ] 61.148.243.87 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000129s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000889s ]
+
+[ 2016-07-08T01:05:07+08:00 ] 61.148.243.87 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000134s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000896s ]
+
+[ 2016-07-08T02:24:19+08:00 ] 173.208.177.59 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000134s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000892s ]
+
+[ 2016-07-08T02:30:12+08:00 ] 61.148.243.87 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+
+[ 2016-07-08T04:20:33+08:00 ] 108.61.226.18 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+
+[ 2016-07-08T05:36:13+08:00 ] 66.249.66.146 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000167s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000920s ]
+ERR: 无法加载控制器:Robots
+
+[ 2016-07-08T05:36:14+08:00 ] 66.249.66.146 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+
+[ 2016-07-08T07:17:06+08:00 ] 93.158.215.101 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000151s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000886s ]
+
+[ 2016-07-08T08:58:47+08:00 ] 61.148.243.87 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000813s ]
+
+[ 2016-07-08T08:58:51+08:00 ] 61.148.243.87 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+
+[ 2016-07-08T09:04:54+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000129s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000855s ]
+
+[ 2016-07-08T09:14:02+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2016-07-08T09:20:57+08:00 ] 106.120.173.121 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+ERR: 无法加载控制器:Robots
+
+[ 2016-07-08T09:20:57+08:00 ] 106.120.173.121 /404.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+ERR: 无法加载控制器:404
+
+[ 2016-07-08T09:25:36+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+
+[ 2016-07-08T09:27:36+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000130s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+
+[ 2016-07-08T09:27:55+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000129s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000892s ]
+
+[ 2016-07-08T09:28:22+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+
+[ 2016-07-08T09:30:57+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+
+[ 2016-07-08T09:44:55+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000141s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000825s ]
+
+[ 2016-07-08T09:51:32+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000133s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000900s ]
+
+[ 2016-07-08T09:54:33+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000632s ]
+
+[ 2016-07-08T09:55:10+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000771s ]
+
+[ 2016-07-08T10:01:09+08:00 ] 123.122.80.26 /Index/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000155s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000922s ]
+ERR: 1146:Table 'dspweb.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+
+[ 2016-07-08T10:01:24+08:00 ] 123.122.80.26 /Index/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000136s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000782s ]
+
+[ 2016-07-08T10:03:22+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+
+[ 2016-07-08T10:45:16+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000130s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000882s ]
+
+[ 2016-07-08T10:50:20+08:00 ] 123.122.80.26 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+
+[ 2016-07-08T10:52:29+08:00 ] 123.122.80.26 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000137s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000904s ]
+
+[ 2016-07-08T10:55:13+08:00 ] 123.122.80.26 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000132s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000893s ]
+
+[ 2016-07-08T10:55:25+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+
+[ 2016-07-08T10:56:58+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+
+[ 2016-07-08T10:58:09+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+
+[ 2016-07-08T10:58:18+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000145s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000902s ]
+
+[ 2016-07-08T10:59:23+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+
+[ 2016-07-08T10:59:50+08:00 ] 123.122.80.26 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000774s ]
+
+[ 2016-07-08T11:00:36+08:00 ] 123.122.80.26 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000823s ]
+
+[ 2016-07-08T11:01:14+08:00 ] 211.89.227.15 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+
+[ 2016-07-08T11:04:11+08:00 ] 123.122.80.26 /Index/postUserActive
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000135s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000906s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000639s ]
+NOTIC: [2] session_start(): open(/var/lib/php/session/sess_mm4qlb207a18fbajplag5nrdp7, O_RDWR) failed: Permission denied (13) /home/dspweb/ThinkPHP/Common/functions.php 第 1438 行.
+SQL: SHOW COLUMNS FROM `user_dw` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `user_dw` WHERE `kmobile` = 15111111111 LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `user_act_dw` [ RunTime:0.0010s ]
+SQL: INSERT INTO `user_act_dw` (`aid`,`num`,`status`,`uid`) VALUES ('10001','2','1','100000000') [ RunTime:0.0400s ]
+
+[ 2016-07-08T11:04:33+08:00 ] 123.122.80.26 /Index/postUserActive
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000148s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+NOTIC: [2] session_start(): open(/var/lib/php/session/sess_mm4qlb207a18fbajplag5nrdp7, O_RDWR) failed: Permission denied (13) /home/dspweb/ThinkPHP/Common/functions.php 第 1438 行.
+SQL: SHOW COLUMNS FROM `user_dw` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `user_dw` WHERE `kmobile` = 15111111111 LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `user_act_dw` [ RunTime:0.0010s ]
+SQL: INSERT INTO `user_act_dw` (`aid`,`num`,`status`,`uid`) VALUES ('10001','1','1','100000000') [ RunTime:0.0021s ]
+
+[ 2016-07-08T11:05:48+08:00 ] 123.122.80.26 /Index/postUserActive
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000608s ]
+NOTIC: [2] session_start(): open(/var/lib/php/session/sess_mm4qlb207a18fbajplag5nrdp7, O_RDWR) failed: Permission denied (13) /home/dspweb/ThinkPHP/Common/functions.php 第 1438 行.
+SQL: SHOW COLUMNS FROM `user_dw` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `user_dw` WHERE `kmobile` = 15111111112 LIMIT 1   [ RunTime:0.0008s ]
+ERR: syntax error, unexpected '$date' (T_VARIABLE)
+
+[ 2016-07-08T11:07:04+08:00 ] 115.238.252.22 /Index/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000150s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000801s ]
+ERR: syntax error, unexpected '$date' (T_VARIABLE)
+
+[ 2016-07-08T11:08:41+08:00 ] 115.238.252.22 /Index/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+ERR: Call to undefined method Home\Model\IndexModel::test()
+
+[ 2016-07-08T11:09:53+08:00 ] 115.238.252.22 /Index/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000839s ]
+
+[ 2016-07-08T11:09:56+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+
+[ 2016-07-08T11:11:41+08:00 ] 115.238.252.22 /Index/postUserActive
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000155s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000424s ]
+NOTIC: [2] session_start(): open(/var/lib/php/session/sess_eis93nr8vpp8clf5h7l2i7rdm5, O_RDWR) failed: Permission denied (13) /home/dspweb/ThinkPHP/Common/functions.php 第 1438 行.
+SQL: SHOW COLUMNS FROM `user_dw` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `user_dw` WHERE `kmobile` = 15111111112 LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `user_act_dw` [ RunTime:0.0018s ]
+ERR: 1048:Column 'uid' cannot be null
+ [ SQL语句 ] : INSERT INTO `user_act_dw` (`aid`,`num`,`status`,`uid`) VALUES ('10001','1','1',NULL)
+ERR: 1048:Column 'uid' cannot be null
+ [ SQL语句 ] : INSERT INTO `user_act_dw` (`aid`,`num`,`status`,`uid`) VALUES ('10001','1','1',NULL)
+
+[ 2016-07-08T11:15:26+08:00 ] 115.238.252.22 /Index/postUserActive
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000758s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+NOTIC: [2] session_start(): open(/var/lib/php/session/sess_eis93nr8vpp8clf5h7l2i7rdm5, O_RDWR) failed: Permission denied (13) /home/dspweb/ThinkPHP/Common/functions.php 第 1438 行.
+SQL: SHOW COLUMNS FROM `user_dw` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `user_dw` WHERE `kmobile` = 15111111112 LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `seq_dw` [ RunTime:6.5411s ]
+ERR: 1054:Unknown column '$id' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `seq_dw` WHERE ( mid = $id ) 
+ERR: 1054:Unknown column '$id' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `seq_dw` WHERE ( mid = $id ) 
+
+[ 2016-07-08T11:21:46+08:00 ] 115.238.252.22 /Index/postUserActive
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000155s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000440s ]
+NOTIC: [2] session_start(): open(/var/lib/php/session/sess_eis93nr8vpp8clf5h7l2i7rdm5, O_RDWR) failed: Permission denied (13) /home/dspweb/ThinkPHP/Common/functions.php 第 1438 行.
+SQL: SHOW COLUMNS FROM `user_dw` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `user_dw` WHERE `kmobile` = 15111111112 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `seq_dw` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `seq_dw` WHERE `mid` = 1  [ RunTime:0.0005s ]
+SQL: INSERT INTO `seq_dw` (`mid`,`seq`) VALUES ('1','100') [ RunTime:0.0254s ]
+NOTIC: [8] Undefined variable: date /home/dspweb/App/Home/Model/IndexModel.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `user_act_dw` [ RunTime:0.0015s ]
+ERR: 1048:Column 'uid' cannot be null
+ [ SQL语句 ] : INSERT INTO `user_act_dw` (`aid`,`num`,`status`,`uid`) VALUES ('10001','1','1',NULL)
+ERR: 1048:Column 'uid' cannot be null
+ [ SQL语句 ] : INSERT INTO `user_act_dw` (`aid`,`num`,`status`,`uid`) VALUES ('10001','1','1',NULL)
+
+[ 2016-07-08T11:26:39+08:00 ] 101.226.33.221 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+
+[ 2016-07-08T11:26:39+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+
+[ 2016-07-08T11:26:49+08:00 ] 101.226.89.119 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+
+[ 2016-07-08T11:30:20+08:00 ] 203.208.60.164 /robots.txt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000198s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000862s ]
+ERR: 无法加载控制器:Robots
+
+[ 2016-07-08T11:30:24+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+
+[ 2016-07-08T11:30:50+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000130s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000900s ]
+
+[ 2016-07-08T11:31:16+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000131s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+
+[ 2016-07-08T11:32:01+08:00 ] 115.238.252.22 /Index/postUserActive
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000529s ]
+NOTIC: [2] session_start(): open(/var/lib/php/session/sess_eis93nr8vpp8clf5h7l2i7rdm5, O_RDWR) failed: Permission denied (13) /home/dspweb/ThinkPHP/Common/functions.php 第 1438 行.
+SQL: SHOW COLUMNS FROM `user_dw` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `user_dw` WHERE `kmobile` = 15111111112 LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `seq_dw` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `seq_dw` WHERE `mid` = 1  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: seq /home/dspweb/App/Home/Model/IndexModel.class.php 第 41 行.
+SQL: UPDATE `seq_dw` SET `mid`='1',`seq`='1' WHERE `mid` = 1 [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `user_act_dw` [ RunTime:0.0013s ]
+SQL: INSERT INTO `user_act_dw` (`aid`,`num`,`status`,`uid`) VALUES ('10001','1','1','1') [ RunTime:0.0017s ]
+SQL: INSERT INTO `user_dw` (`name`,`nick`,`kmobile`,`type`,`uid`) VALUES ('test','test','15111111112','2','1') [ RunTime:0.0508s ]
+
+[ 2016-07-08T11:32:07+08:00 ] 115.238.252.22 /Index/postUserActive
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000918s ]
+NOTIC: [2] session_start(): open(/var/lib/php/session/sess_eis93nr8vpp8clf5h7l2i7rdm5, O_RDWR) failed: Permission denied (13) /home/dspweb/ThinkPHP/Common/functions.php 第 1438 行.
+SQL: SHOW COLUMNS FROM `user_dw` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `user_dw` WHERE `kmobile` = 15111111112 LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `user_act_dw` [ RunTime:0.0012s ]
+SQL: INSERT INTO `user_act_dw` (`aid`,`num`,`status`,`uid`) VALUES ('10001','1','1','1') [ RunTime:0.0022s ]
+
+[ 2016-07-08T11:33:33+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000154s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000894s ]
+
+[ 2016-07-08T11:33:34+08:00 ] 203.208.60.161 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000131s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000867s ]
+
+[ 2016-07-08T11:39:24+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2016-07-08T11:42:05+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2016-07-08T11:46:14+08:00 ] 115.238.252.22 /Index/postUserActive
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000111s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000741s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000153s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000424s ]
+SQL: SHOW COLUMNS FROM `user_dw` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `user_dw` WHERE `kmobile` = 15111111112 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `seq_dw` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `seq_dw` WHERE `mid` = 1  [ RunTime:0.0006s ]
+SQL: INSERT INTO `seq_dw` (`mid`,`seq`) VALUES ('1','100') [ RunTime:0.0179s ]
+NOTIC: [8] Undefined variable: date /home/dspweb/App/Home/Model/IndexModel.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `user_act_dw` [ RunTime:0.0014s ]
+ERR: 1048:Column 'uid' cannot be null
+ [ SQL语句 ] : INSERT INTO `user_act_dw` (`aid`,`num`,`status`,`uid`) VALUES ('10001','1','1',NULL)
+ERR: 1048:Column 'uid' cannot be null
+ [ SQL语句 ] : INSERT INTO `user_act_dw` (`aid`,`num`,`status`,`uid`) VALUES ('10001','1','1',NULL)
+
+[ 2016-07-08T11:49:32+08:00 ] 115.238.252.22 /Index/postUserActive
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000159s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000445s ]
+SQL: SHOW COLUMNS FROM `user_dw` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `user_dw` WHERE `kmobile` = 15111111112 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `seq_dw` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `seq_dw` WHERE `mid` = 1  [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: seq /home/dspweb/App/Home/Model/IndexModel.class.php 第 41 行.
+SQL: UPDATE `seq_dw` SET `mid`='1',`seq`='1' WHERE `mid` = 1 [ RunTime:0.0208s ]
+SQL: SHOW COLUMNS FROM `user_act_dw` [ RunTime:0.0015s ]
+SQL: INSERT INTO `user_act_dw` (`aid`,`num`,`status`,`uid`) VALUES ('10001','1','1','1') [ RunTime:0.0021s ]
+SQL: INSERT INTO `user_dw` (`name`,`nick`,`kmobile`,`type`,`uid`) VALUES ('test','test','15111111112','2','1') [ RunTime:0.0370s ]
+
+[ 2016-07-08T11:57:38+08:00 ] 123.122.80.26 /Index/postUserActive
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000136s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000360s ]
+SQL: SHOW COLUMNS FROM `user_dw` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `user_dw` WHERE `kmobile` = 15111111112 LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `seq_dw` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `seq_dw` WHERE `mid` = 1  [ RunTime:0.0005s ]
+SQL: INSERT INTO `seq_dw` (`mid`,`seq`) VALUES ('1','100') [ RunTime:0.0204s ]
+NOTIC: [8] Undefined variable: date /home/dspweb/App/Home/Model/IndexModel.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `user_act_dw` [ RunTime:0.0009s ]
+ERR: 1048:Column 'uid' cannot be null
+ [ SQL语句 ] : INSERT INTO `user_act_dw` (`aid`,`num`,`status`,`uid`) VALUES ('10001','1','1',NULL)
+ERR: 1048:Column 'uid' cannot be null
+ [ SQL语句 ] : INSERT INTO `user_act_dw` (`aid`,`num`,`status`,`uid`) VALUES ('10001','1','1',NULL)
+
+[ 2016-07-08T11:57:46+08:00 ] 123.122.80.26 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2016-07-08T11:57:54+08:00 ] 123.122.80.26 /Index/postUserActive
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000133s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000351s ]
+SQL: SHOW COLUMNS FROM `user_dw` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `user_dw` WHERE `kmobile` = 15111111111 LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `user_act_dw` [ RunTime:0.0011s ]
+SQL: INSERT INTO `user_act_dw` (`aid`,`num`,`status`,`uid`) VALUES ('10001','1','1','100000000') [ RunTime:0.0021s ]
+
+[ 2016-07-08T11:58:25+08:00 ] 123.122.80.26 /Index/postUserActive
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000622s ]
+SQL: SHOW COLUMNS FROM `user_dw` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `user_dw` WHERE `kmobile` = 15111111112 LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `seq_dw` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `seq_dw` WHERE `mid` = 1  [ RunTime:0.0005s ]
+SQL: UPDATE `seq_dw` SET `mid`='1',`seq`='101' WHERE `mid` = 1 [ RunTime:0.0349s ]
+SQL: SHOW COLUMNS FROM `user_act_dw` [ RunTime:0.0010s ]
+SQL: INSERT INTO `user_act_dw` (`aid`,`num`,`status`,`uid`) VALUES ('10001','1','1','101') [ RunTime:0.0095s ]
+SQL: INSERT INTO `user_dw` (`name`,`nick`,`kmobile`,`type`,`uid`) VALUES ('dss','dss','15111111112','2','101') [ RunTime:0.0018s ]
+
+[ 2016-07-08T11:58:40+08:00 ] 123.122.80.26 /Index/postUserActive
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000134s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001023s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000623s ]
+SQL: SHOW COLUMNS FROM `user_dw` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `user_dw` WHERE `kmobile` = 15111111112 LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `user_act_dw` [ RunTime:0.0009s ]
+SQL: INSERT INTO `user_act_dw` (`aid`,`num`,`status`,`uid`) VALUES ('10001','1','1','101') [ RunTime:0.0021s ]
+
+[ 2016-07-08T11:58:58+08:00 ] 123.122.80.26 /Index/postUserActive
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000130s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000903s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000775s ]
+SQL: SHOW COLUMNS FROM `user_dw` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `user_dw` WHERE `kmobile` = 15111111113 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `seq_dw` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `seq_dw` WHERE `mid` = 1  [ RunTime:0.0007s ]
+SQL: UPDATE `seq_dw` SET `mid`='1',`seq`='102' WHERE `mid` = 1 [ RunTime:0.0022s ]
+SQL: SHOW COLUMNS FROM `user_act_dw` [ RunTime:0.0010s ]
+SQL: INSERT INTO `user_act_dw` (`aid`,`num`,`status`,`uid`) VALUES ('10001','1','1','102') [ RunTime:0.0019s ]
+SQL: INSERT INTO `user_dw` (`name`,`nick`,`kmobile`,`type`,`uid`) VALUES ('','','15111111113','2','102') [ RunTime:0.0019s ]
+
+[ 2016-07-08T11:59:18+08:00 ] 123.122.80.26 /Index/postUserActive
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000800s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000728s ]
+SQL: SHOW COLUMNS FROM `user_dw` [ RunTime:0.0014s ]
+SQL: SELECT * FROM `user_dw` WHERE `kmobile` = 15111111114 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `seq_dw` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `seq_dw` WHERE `mid` = 1  [ RunTime:0.0007s ]
+SQL: UPDATE `seq_dw` SET `mid`='1',`seq`='103' WHERE `mid` = 1 [ RunTime:0.0021s ]
+SQL: SHOW COLUMNS FROM `user_act_dw` [ RunTime:0.0009s ]
+SQL: INSERT INTO `user_act_dw` (`aid`,`num`,`status`,`uid`) VALUES ('10001','1','1','103') [ RunTime:0.0017s ]
+SQL: INSERT INTO `user_dw` (`name`,`nick`,`kmobile`,`type`,`uid`) VALUES ('','','15111111114','2','103') [ RunTime:0.0019s ]
+
+[ 2016-07-08T12:12:29+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+
+[ 2016-07-08T12:12:52+08:00 ] 123.122.80.26 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+
+[ 2016-07-08T12:17:06+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+
+[ 2016-07-08T12:20:57+08:00 ] 123.122.80.26 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000660s ]
+
+[ 2016-07-08T12:21:49+08:00 ] 123.122.80.26 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000837s ]
+
+[ 2016-07-08T12:23:10+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+
+[ 2016-07-08T12:25:51+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+
+[ 2016-07-08T12:26:01+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+
+[ 2016-07-08T12:26:57+08:00 ] 123.122.80.26 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000130s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000885s ]
+
+[ 2016-07-08T12:27:06+08:00 ] 123.122.80.26 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000151s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000880s ]
+
+[ 2016-07-08T12:31:54+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+
+[ 2016-07-08T13:23:37+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000811s ]
+
+[ 2016-07-08T13:39:14+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+
+[ 2016-07-08T13:42:09+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+
+[ 2016-07-08T13:46:03+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+
+[ 2016-07-08T13:48:28+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+
+[ 2016-07-08T13:52:53+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000141s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000902s ]
+
+[ 2016-07-08T13:52:58+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000130s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000890s ]
+
+[ 2016-07-08T13:54:28+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000104s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+
+[ 2016-07-08T13:54:31+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000153s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000885s ]
+
+[ 2016-07-08T13:54:36+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000129s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000900s ]
+
+[ 2016-07-08T13:54:42+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000103s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000690s ]
+
+[ 2016-07-08T13:54:45+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+
+[ 2016-07-08T13:54:48+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000151s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000866s ]
+
+[ 2016-07-08T13:54:50+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+
+[ 2016-07-08T13:54:53+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000130s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000861s ]
+
+[ 2016-07-08T13:54:55+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+
+[ 2016-07-08T13:54:57+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000130s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000870s ]
+
+[ 2016-07-08T13:55:06+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000130s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000864s ]
+
+[ 2016-07-08T13:55:09+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+
+[ 2016-07-08T13:55:12+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000130s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000868s ]
+
+[ 2016-07-08T13:55:15+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000660s ]
+
+[ 2016-07-08T13:55:18+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000132s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000898s ]
+
+[ 2016-07-08T13:55:40+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+
+[ 2016-07-08T13:55:44+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000130s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+
+[ 2016-07-08T13:55:49+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000135s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000884s ]
+
+[ 2016-07-08T13:55:51+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+
+[ 2016-07-08T13:57:38+08:00 ] 123.122.80.26 /Index/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000152s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000893s ]
+ERR: 1146:Table 'dspweb.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+
+[ 2016-07-08T13:59:01+08:00 ] 123.122.80.26 /Index/user
+ERR: 1146:Table 'dspweb.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+
+[ 2016-07-08T14:00:10+08:00 ] 123.122.80.26 /Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000127s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000874s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000908s ]
+SQL: SHOW COLUMNS FROM `active_dw` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `active_dw`  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `act_browse_dw` [ RunTime:0.0010s ]
+SQL: INSERT INTO `act_browse_dw` (`ip`,`aid`,`ldate`,`ltime`) VALUES ('123.122.80.26','10000','20160708','140010') [ RunTime:0.0024s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000270s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000718s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008387s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008863s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000723s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000264s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000734s ]
+
+[ 2016-07-08T14:00:36+08:00 ] 123.122.80.26 /Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000131s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000903s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000928s ]
+SQL: SHOW COLUMNS FROM `active_dw` [ RunTime:0.0016s ]
+SQL: SELECT * FROM `active_dw`  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `act_browse_dw` [ RunTime:0.0012s ]
+SQL: INSERT INTO `act_browse_dw` (`ip`,`aid`,`ldate`,`ltime`) VALUES ('123.122.80.26','10000','20160708','140036') [ RunTime:0.0024s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000342s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000873s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009779s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010331s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000797s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000289s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000791s ]
+
+[ 2016-07-08T14:00:49+08:00 ] 123.122.80.26 /Index/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000115s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000796s ]
+ERR: 1146:Table 'dspweb.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+ERR: 1146:Table 'dspweb.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+
+[ 2016-07-08T14:00:57+08:00 ] 123.122.80.26 /Index/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000119s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000806s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000852s ]
+ERR: 1146:Table 'dspweb.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+ERR: 1146:Table 'dspweb.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+
+[ 2016-07-08T14:16:30+08:00 ] 115.238.252.22 /Index/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000190s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000522s ]
+ERR: 1146:Table 'dspweb.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+ERR: 1146:Table 'dspweb.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+
+[ 2016-07-08T14:17:32+08:00 ] 115.238.252.22 /Index/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000183s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000523s ]
+ERR: 1146:Table 'dspweb.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+ERR: 1146:Table 'dspweb.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+
+[ 2016-07-08T14:21:02+08:00 ] 115.238.252.22 /Index/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000187s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000517s ]
+ERR: 1146:Table 'dspweb.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+ERR: 1146:Table 'dspweb.user' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `user`
+
+[ 2016-07-08T14:22:12+08:00 ] 115.238.252.22 /Index/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000184s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000521s ]
+ERR: Think\Model:test方法不存在！
+
+[ 2016-07-08T14:23:29+08:00 ] 106.39.189.200 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000095s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000650s ]
+SQL: SHOW COLUMNS FROM `active_dw` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `active_dw`  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `act_browse_dw` [ RunTime:0.0016s ]
+SQL: INSERT INTO `act_browse_dw` (`ip`,`aid`,`ldate`,`ltime`) VALUES ('106.39.189.200','10000','20160708','142329') [ RunTime:0.0432s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000320s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000865s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009891s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010517s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000845s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000288s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000772s ]
+
+[ 2016-07-08T14:24:15+08:00 ] 113.57.182.191 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000136s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000892s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000924s ]
+SQL: SHOW COLUMNS FROM `active_dw` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `active_dw`  [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `act_browse_dw` [ RunTime:0.0011s ]
+SQL: INSERT INTO `act_browse_dw` (`ip`,`aid`,`ldate`,`ltime`) VALUES ('113.57.182.191','10001','20160708','142415') [ RunTime:0.0238s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000272s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000740s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008763s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009207s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000699s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000261s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000690s ]
+
+[ 2016-07-08T14:25:32+08:00 ] 113.57.182.191 /Index/postUserActive
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000143s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000900s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000789s ]
+SQL: SHOW COLUMNS FROM `user_dw` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `user_dw` WHERE `kmobile` = 15101052755 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `seq_dw` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `seq_dw` WHERE `mid` = 1  [ RunTime:0.0008s ]
+SQL: UPDATE `seq_dw` SET `mid`='1',`seq`='104' WHERE `mid` = 1 [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `user_act_dw` [ RunTime:0.0014s ]
+SQL: INSERT INTO `user_act_dw` (`aid`,`num`,`status`,`uid`) VALUES ('10001','2','1','104') [ RunTime:0.0235s ]
+SQL: INSERT INTO `user_dw` (`name`,`nick`,`kmobile`,`type`,`uid`) VALUES ('撒啊','撒啊','15101052755','2','104') [ RunTime:0.0387s ]
+
+[ 2016-07-08T14:26:45+08:00 ] 123.122.80.26 /Index/postUserActive
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000717s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+SQL: SHOW COLUMNS FROM `user_dw` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `user_dw` WHERE `kmobile` = 15102754987 LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `seq_dw` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `seq_dw` WHERE `mid` = 1  [ RunTime:0.0006s ]
+SQL: UPDATE `seq_dw` SET `mid`='1',`seq`='105' WHERE `mid` = 1 [ RunTime:0.0023s ]
+SQL: SHOW COLUMNS FROM `user_act_dw` [ RunTime:0.0009s ]
+SQL: INSERT INTO `user_act_dw` (`aid`,`num`,`status`,`uid`) VALUES ('10001','2','1','105') [ RunTime:0.0017s ]
+SQL: INSERT INTO `user_dw` (`name`,`nick`,`kmobile`,`type`,`uid`) VALUES ('啊哈哈','啊哈哈','15102754987','2','105') [ RunTime:0.0548s ]
+
+[ 2016-07-08T14:28:15+08:00 ] 123.122.80.26 /Index/taohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000149s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000885s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000941s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000346s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000861s ]
+NOTIC: [8] Undefined variable: aid /home/dspweb/App/Runtime/Cache/Home/2df36ddeefcdaed6c543f601f949898c.php 第 44 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010347s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010883s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000306s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000790s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000284s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000775s ]
+
+[ 2016-07-08T14:28:25+08:00 ] 123.122.80.26 /Index/taohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000131s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000912s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000920s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000290s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000796s ]
+NOTIC: [8] Undefined variable: aid /home/dspweb/App/Runtime/Cache/Home/2df36ddeefcdaed6c543f601f949898c.php 第 44 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010144s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010656s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000715s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000297s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000732s ]
+
+[ 2016-07-08T14:28:31+08:00 ] 123.122.80.26 /Index/taohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000128s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000844s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000904s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000288s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000820s ]
+NOTIC: [8] Undefined variable: aid /home/dspweb/App/Runtime/Cache/Home/2df36ddeefcdaed6c543f601f949898c.php 第 44 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010212s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010759s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000782s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000281s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000780s ]
+
+[ 2016-07-08T14:29:07+08:00 ] 123.122.80.26 /Index/taohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000130s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000902s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000987s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000255s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000663s ]
+NOTIC: [8] Undefined variable: aid /home/dspweb/App/Runtime/Cache/Home/2df36ddeefcdaed6c543f601f949898c.php 第 44 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008807s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009339s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000669s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000258s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000664s ]
+
+[ 2016-07-08T14:29:28+08:00 ] 123.122.80.26 /Index/taohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000150s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000892s ]
+
+[ 2016-07-08T14:31:43+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000130s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000882s ]
+
+[ 2016-07-08T14:39:21+08:00 ] 123.122.80.26 /Index/taohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000106s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+
+[ 2016-07-08T14:39:26+08:00 ] 123.122.80.26 /Index/taohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000106s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000724s ]
+
+[ 2016-07-08T14:40:28+08:00 ] 123.122.80.26 /Index/taohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000596s ]
+
+[ 2016-07-08T14:40:32+08:00 ] 123.122.80.26 /Index/taohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000789s ]
+
+[ 2016-07-08T14:41:27+08:00 ] 123.122.80.26 /Index/taohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000120s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000820s ]
+
+[ 2016-07-08T14:41:33+08:00 ] 123.122.80.26 /Index/taohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000131s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000883s ]
+
+[ 2016-07-08T14:45:24+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+
+[ 2016-07-08T14:45:29+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000162s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001092s ]
+
+[ 2016-07-08T14:45:33+08:00 ] 123.122.80.26 /Index/taohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000131s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000864s ]
+
+[ 2016-07-08T14:45:52+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+
+[ 2016-07-08T14:47:59+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+
+[ 2016-07-08T14:50:15+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+
+[ 2016-07-08T14:50:20+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+
+[ 2016-07-08T14:50:22+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2016-07-08T14:50:23+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+
+[ 2016-07-08T14:50:29+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2016-07-08T14:51:43+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000084s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+
+[ 2016-07-08T14:51:46+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2016-07-08T14:51:52+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+
+[ 2016-07-08T14:51:53+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2016-07-08T14:51:55+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000132s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000897s ]
+
+[ 2016-07-08T14:51:58+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+
+[ 2016-07-08T14:51:59+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000163s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001053s ]
+
+[ 2016-07-08T14:52:02+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+
+[ 2016-07-08T14:52:03+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000799s ]
+
+[ 2016-07-08T14:52:05+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000717s ]
+
+[ 2016-07-08T14:52:08+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000108s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+
+[ 2016-07-08T14:52:10+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000131s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000904s ]
+
+[ 2016-07-08T14:52:12+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+
+[ 2016-07-08T14:52:13+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+
+[ 2016-07-08T14:52:15+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+
+[ 2016-07-08T14:52:52+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+
+[ 2016-07-08T14:53:36+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000816s ]
+
+[ 2016-07-08T14:54:25+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000161s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000891s ]
+
+[ 2016-07-08T14:54:31+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000110s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000732s ]
+
+[ 2016-07-08T14:54:34+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+
+[ 2016-07-08T14:54:40+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+
+[ 2016-07-08T14:54:42+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000139s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+
+[ 2016-07-08T14:54:43+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000122s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000806s ]
+
+[ 2016-07-08T14:54:46+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000100s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+
+[ 2016-07-08T14:54:47+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000162s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001091s ]
+
+[ 2016-07-08T14:54:49+08:00 ] 115.238.252.22 /Index/daohuaxiang
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000129s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000828s ]
+
+[ 2016-07-08T14:55:48+08:00 ] 115.238.252.22 /Index/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000162s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001072s ]
+
+[ 2016-07-08T14:56:30+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000142s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000872s ]
+
+[ 2016-07-08T15:06:12+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000151s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000887s ]
+
+[ 2016-07-08T15:27:41+08:00 ] 106.38.241.106 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+
+[ 2016-07-08T15:46:08+08:00 ] 61.148.243.87 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000132s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000895s ]
+
+[ 2016-07-08T16:02:27+08:00 ] 183.240.92.148 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+
+[ 2016-07-08T17:00:26+08:00 ] 203.208.60.164 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+
+[ 2016-07-08T17:00:26+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000153s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000856s ]
+
+[ 2016-07-08T17:04:43+08:00 ] 123.122.80.26 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+
+[ 2016-07-08T17:09:38+08:00 ] 106.120.121.157 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000139s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000887s ]
+

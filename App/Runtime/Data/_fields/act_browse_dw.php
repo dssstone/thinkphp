@@ -1,0 +1,1 @@
+a:5:{i:0;s:2:"ip";i:1;s:3:"aid";i:2;s:5:"ldate";i:3;s:5:"ltime";s:5:"_type";a:4:{s:2:"ip";s:11:"varchar(20)";s:3:"aid";s:10:"bigint(20)";s:5:"ldate";s:7:"int(11)";s:5:"ltime";s:7:"int(11)";}}

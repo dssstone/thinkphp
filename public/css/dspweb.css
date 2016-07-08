@@ -1,0 +1,203 @@
+body {
+    font-family: 微软雅黑, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857;
+    color: rgb(255, 255, 255);
+    background-color: rgb(246, 246, 246);
+}
+
+.content{
+	/*max-width: 480px;*/
+    width: 100%;
+    max-width: 720px;
+	margin: 0 auto;
+    color: #333;
+    background-color: #fff;
+}
+.content > p {
+    margin: 0;
+}
+.content > p > img{
+    max-width: 100%;
+}
+.about-ft {
+    background-image: url(../img/about1.jpg);
+    height: 550px;
+}
+.about-dsp {
+    background-image: url(../img/about2.jpg);
+    height: 540px;
+}
+.about-align {
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.about-ft1 {
+    padding-top: 160px;
+}
+.about-ft1 h2 {
+    font-size: 48px;
+    color: #ff8b02;
+}
+
+.about-align h2 {
+    text-align: center;
+}
+.about-ft1 p {
+    text-indent: 2em;
+    font-size: 16px;
+    padding-top: 30px;
+    text-align: left;
+    line-height: 25px;
+}
+.about-dsp1 {
+    padding-top: 120px;
+    width: 50%;
+}
+.about-dsp1 h2 {
+    font-size: 48px;
+}
+.about-dsp1 p {
+    padding-right: 35px;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: left;
+}
+.about-honor {
+    background-image: url(../img/about4.jpg);
+    height: 550px;
+}
+.about-honor1 {
+    padding-top: 40px;
+    width: 70%;
+}
+.about-honor1 h2 {
+    font-size: 48px;
+    color: #915316;
+}
+.about-honor1 table {
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.about-honor1 table td {
+    text-align: left;
+    padding-left: 70px;
+    font-size: 16px;
+    line-height: 30px;
+    color: #000;
+}
+.about-culture {
+    background-image: url(../img/about5.jpg);
+    height: 665px;
+}
+.about-culture1 {
+    padding-top: 60px;
+}
+.about-joinus {
+    background-image: url(../img/about6.jpg);
+    height: 705px;
+}
+.about-joinus1 {
+    padding-top: 50px;
+}
+.about-joinus2-1 {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.about-joinus1 h2 {
+    font-size: 48px;
+    
+}
+.about-joinus2 p {
+    font-size: 30px;
+    text-align: center;
+    line-height: 40px;
+}
+.about-joinus3-1 {
+    padding: 0 25px;
+    width: 400px;
+}
+.about-joinus3 {
+    float: left;
+}
+.about-joinus2-1 h4 {
+    text-align: center;
+    font-size: 30px;
+    color: #4c4c4c;
+    padding-bottom: 10px;
+}
+.about-joinus3 p:first-of-type {
+    font-size: 16px;
+    line-height: 25px;
+    color: #4c4c4c;
+}
+.about-joinus3 p:last-child {
+    font-size: 18px;
+    line-height: 30px;
+    color: #08324a;
+}
+.about-joinus3-2 {
+    padding-left: 20px;
+    width: calc(100% - 400px);
+}
+.about-joinus2-1 h4 {
+    text-align: center;
+    font-size: 30px;
+    color: #4c4c4c;
+    padding-bottom: 10px;
+}
+
+
+
+
+
+#footer {
+    background-color: #000;
+    padding: 5px 0;
+    border-bottom: 1px solid #ccc;
+}
+.main-footer {
+    text-align: center;
+    padding-top: 25px;
+}
+.main-footer p, .main-footer ul {
+    font-family: 微软雅黑, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    color: rgb(76, 76, 76);
+}
+.f_contact2 {
+    display: inline-block;
+    padding: 0 10px;
+    border-right: 1px solid #4c4c4c;
+    font-size: 16px;
+}
+.f_contact2 a {
+    color: rgb(76, 76, 76);
+}
+.bottom-footer {
+    background-color: #000;
+    text-align: center;
+}
+.icp {
+    margin-top: 20px;
+    color: #adadad;
+}
+.f_contact {
+    color: #e38e1f;
+}
+.orderInfo{
+    background: #EEE9E6;
+    color: #6C594D;
+    font-size: 18px;
+    line-height: 30px;
+    padding: 0 10px;
+    margin: 0;
+    width: 100%;
+    clear: both;
+    text-align: left;
+}
+.orderInfo:before {
+    content: "▼";
+    color: #948157;
+}
+
